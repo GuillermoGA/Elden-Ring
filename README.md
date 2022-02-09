@@ -1,4 +1,4 @@
-# Elden-Ring
+# Elden Ring [BETA INFO]
 
 ## Mapa de los bosses
 ![Mapa de los bosses](/img/elden_ring_beta_map.jpg)
