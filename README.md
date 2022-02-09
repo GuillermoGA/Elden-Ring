@@ -1,13 +1,13 @@
 # Elden-Ring
 
 ## Mapa de los bosses
-[Mapa de los bosses](/img/elden_ring_beta_map.jpg)
+![Mapa de los bosses](/img/elden_ring_beta_map.jpg)
 
 ## Mapa del itinerario inicial
-[Mapa del itinerario inicial](img/itinerario_inicial.jpg)
+![Mapa del itinerario inicial](img/itinerario_inicial.jpg)
 
 ## Mapa con los puntos de interes
-[Mapa con los puntos de interes](img/mas_puntos_de_interes.jpg)
+![Mapa con los puntos de interes](img/mas_puntos_de_interes.jpg)
 
 En el puente:
 - en el medio a un lado Fragemento de meteorito pesado
