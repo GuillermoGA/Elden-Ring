@@ -32,7 +32,7 @@ en la playa, al oeste de (7)
 - unas pisadas blancas, un escarabajo invisible ceniza de guerra Determination
 
 en la playa al sureste de (1)
-- escarabajo ¿?
+- escarabajo con Cure Poison
 - Al ir hacia el norte hay una cueva, el tutorial (1), dentro esta cenias de guerra Gravitas
 
 en la isla del sur:
